@@ -87,7 +87,7 @@ Hi! I'm **Dholu Nirmal**, a passionate **Full Stack Development student** who lo
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dholu-nirmal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nirmaldholu4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
