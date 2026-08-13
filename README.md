@@ -78,8 +78,8 @@ Hi! I'm **Dholu Nirmal**, a passionate **Full Stack Development student** who lo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dholu-nirmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dholu-nirmal&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmaldholu4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmaldholu4&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ Hi! I'm **Dholu Nirmal**, a passionate **Full Stack Development student** who lo
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dholu-nirmal&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmaldholu4&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
