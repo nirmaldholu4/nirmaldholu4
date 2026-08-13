@@ -53,22 +53,6 @@
 
 ---
 
-## <p align="center">📊 GitHub Statistics & Activity</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmaldholu4&show_icons=true&theme=tokyonight&count_private=true" alt="Nirmal's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmaldholu4&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmaldholu4&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" />
-</p>
-
----
-
 ## <p align="center">🌐 Connect with Me</p>
 
 <p align="center">
