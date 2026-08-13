@@ -1,71 +1,142 @@
-# <p align="center">Hey there! 👋 I'm Dholu Nirmal</p>
-
----
-
-## <p align="center">🚀 Passionate Full Stack Development Student</p>
+# 👋 Hey there! I'm Dholu Nirmal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Building+Clean+%26+Responsive+Interfaces;Focusing+on+Logic+%26+Problem+Solving;Eager+to+Learn+%26+Grow+in+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Student;Frontend+Developer+%7C+Problem+Solver;Building+Clean+%26+Responsive+Web+Experiences;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nirmaldholu4&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## <p align="center">👨‍💻 About Me</p>
+## 🚀 About Me
+
+Hi! I'm **Dholu Nirmal**, a passionate **Full Stack Development student** who loves turning ideas into clean, responsive, and interactive web experiences.
+
+💻 I enjoy working with **JavaScript, HTML, CSS, C, and C++** while continuously improving my problem-solving and development skills.
+
+🌱 Currently, I'm focused on strengthening my **JavaScript, Data Structures & Algorithms, and Full Stack Development** knowledge.
+
+🎯 My long-term goal is to become a skilled **Software Engineer** and build useful, scalable, and meaningful applications.
+
+> **Code → Learn → Build → Improve → Repeat 🚀**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <p align="center">
-  I am an enthusiastic student exploring the world of **Full Stack Web Development**. My primary focus is on front-end technologies, aiming to create clean, responsive, and modern user experiences. I love taking on challenges, improving my logical thinking, and writing elegant code. My goal is to continuously learn and grow into a skilled Software Engineer, contributing to meaningful projects.
+  <img src="https://skillicons.dev/icons?i=c,cpp,js" alt="Programming Languages" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend Technologies" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools and Technologies" />
 </p>
 
 ---
 
-## <p align="center">🛠️ Tech Stack & Skillset</p>
+## 📚 Currently Learning
 
-### <p align="center">💻 Programming Languages</p>
 <p align="center">
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb" alt="Currently Learning" />
 </p>
 
-### <p align="center">🌐 Front-End Development</p>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+* 🔥 Advanced JavaScript concepts
+* 🧠 Data Structures & Algorithms using C++
+* ⚛️ React.js for modern UI development
+* 🟢 Node.js & Express.js for backend development
+* 🍃 MongoDB and database concepts
+* 🚀 Full Stack Web Development
 
-### <p align="center">🔧 Tools & Technologies</p>
+---
+
+## 💡 What I Love Building
+
+```text
+🌐 Responsive Websites
+🛒 E-Commerce Applications
+🌦️ Weather Applications
+📚 CRUD Applications
+⚡ JavaScript Projects
+🧠 DSA & Problem Solving
+🎨 Clean & Modern User Interfaces
+```
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dholu-nirmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dholu-nirmal&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-## <p align="center">🌱 Currently Learning & Future Goals</p>
-
-- <p align="center">Deepening my knowledge of Advanced JavaScript Concepts.</p>
-- <p align="center">Mastering Data Structures and Algorithms in C++.</p>
-- <p align="center">Aiming to learn React.js for powerful UI building.</p>
-- <p align="center">Planning to explore Backend Development with Node.js and Express.js.</p>
-- <p align="center">Eager to work with Databases like MongoDB.</p>
-
----
-
-## <p align="center">🌐 Connect with Me</p>
+## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="mailto:nirmaldholu4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/dholu-nirmal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=dholu-nirmal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
+## 📈 Contribution Graph
+
 <p align="center">
-  <i>"Code, Learn, Build, Repeat." 🚀." 😉</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dholu-nirmal&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Become stronger in Advanced JavaScript
+* [ ] Master DSA with C++
+* [ ] Build real-world React projects
+* [ ] Learn Node.js & Express.js
+* [ ] Work with MongoDB
+* [ ] Build complete Full Stack applications
+* [ ] Contribute to Open Source
+* [ ] Build a strong developer portfolio
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:nirmaldholu4@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dholu-nirmal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+<p align="center">
+
+**"Don't just write code. Understand it, improve it, and build something useful with it."**
+
+</p>
+
+<p align="center">
+  🚀 <b>Keep Learning. Keep Building. Keep Growing.</b> 🚀
 </p>
