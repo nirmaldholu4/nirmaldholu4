@@ -1,37 +1,41 @@
-# Hi there, I'm Dholu Nirmal 👋
+# <p align="center">Hey there! 👋 I'm Dholu Nirmal</p>
+
+---
+
+## <p align="center">🚀 Passionate Full Stack Development Student</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Full+Stack+Development+Student+%F0%9F%92%BB;Computer+Science+Learner+%F0%9F%8D%93;Frontend+%26+Problem+Solving+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Building+Clean+%26+Responsive+Interfaces;Focusing+on+Logic+%26+Problem+Solving;Eager+to+Learn+%26+Grow+in+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## <p align="center">👨‍💻 About Me</p>
 
-<p align="left">
-I am a passionate student actively learning **Full Stack Web Development** & Software Engineering. With a strong foundation in frontend technologies, I love building clean, responsive, and modern user interfaces. Currently, I am focused on strengthening my skills in JavaScript, Data Structures, and Algorithms, while laying the groundwork for backend development.
+<p align="center">
+  I am an enthusiastic student exploring the world of **Full Stack Web Development**. My primary focus is on front-end technologies, aiming to create clean, responsive, and modern user experiences. I love taking on challenges, improving my logical thinking, and writing elegant code. My goal is to continuously learn and grow into a skilled Software Engineer, contributing to meaningful projects.
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Skillset
+## <p align="center">🛠️ Tech Stack & Skillset</p>
 
-### 💻 Programming Languages
-<p align="left">
+### <p align="center">💻 Programming Languages</p>
+<p align="center">
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 🌐 Frontend Development
-<p align="left">
+### <p align="center">🌐 Front-End Development</p>
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### 🛠️ Tools & Technologies
-<p align="left">
+### <p align="center">🔧 Tools & Technologies</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -39,43 +43,39 @@ I am a passionate student actively learning **Full Stack Web Development** & Sof
 
 ---
 
-## 🌱 Currently Learning & Future Roadmap
+## <p align="center">🌱 Currently Learning & Future Goals</p>
 
-- ⚡ Advanced JavaScript & Async Programming.
-- 🧩 Data Structures & Algorithms (DSA) in C++.
-- ⚛️ React.js for modern frontend UI.
-- 🟢 Node.js & Express.js for backend API creation.
-- 🍃 MongoDB for database management.
-
----
-
-## 🎯 Current Mission & Goals
-
-- 💻 Build responsive and real-world web applications.
-- 🧩 Improve algorithmic thinking and problem-solving skills.
-- 🤝 Participate in open-source projects and developer communities.
+- <p align="center">Deepening my knowledge of Advanced JavaScript Concepts.</p>
+- <p align="center">Mastering Data Structures and Algorithms in C++.</p>
+- <p align="center">Aiming to learn React.js for powerful UI building.</p>
+- <p align="center">Planning to explore Backend Development with Node.js and Express.js.</p>
+- <p align="center">Eager to work with Databases like MongoDB.</p>
 
 ---
 
-## 📊 GitHub Statistics
+## <p align="center">📊 GitHub Statistics & Activity</p>
 
 <p align="center">
-  <img src="" id="github-stats" alt="Nirmal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmaldholu4&show_icons=true&theme=tokyonight&count_private=true" alt="Nirmal's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="" id="github-streak" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmaldholu4&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmaldholu4&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## <p align="center">🌐 Connect with Me</p>
 
 <p align="center">
   <a href="mailto:nirmaldholu4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/dholu-nirmal" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/dholu-nirmal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -83,12 +83,5 @@ I am a passionate student actively learning **Full Stack Web Development** & Sof
 ---
 
 <p align="center">
-  <i>"Code, Learn, Build, Repeat." 🚀</i>
+  <i>"Code, Learn, Build, Repeat." 🚀." 😉</i>
 </p>
-
-<script>
-  const username = "nirmaldholu4";
-
-  document.getElementById('github-stats').src = `https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=tokyonight`;
-  document.getElementById('github-streak').src = `https://github-readme-streak-stats.herokuapp.com/?user=${username}&theme=tokyonight`;
-</script>
