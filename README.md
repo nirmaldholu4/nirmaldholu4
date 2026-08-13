@@ -8,39 +8,44 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student actively learning **Full Stack Web Development** & Software Engineering.
-- 💡 Passionate about building clean, responsive, and modern user interfaces.
-- 📚 Currently strengthening foundations in JavaScript, Data Structures, and C/C++.
-- 🚀 Focused on logic building and writing maintainable code every day.
+<p align="left">
+I am a passionate student actively learning **Full Stack Web Development** & Software Engineering. With a strong foundation in frontend technologies, I love building clean, responsive, and modern user interfaces. Currently, I am focused on strengthening my skills in JavaScript, Data Structures, and Algorithms, while laying the groundwork for backend development.
+</p>
 
 ---
 
 ## 🛠️ Tech Stack & Skillset
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 ### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning & Future Roadmap
 
-- ⚡ **Advanced JavaScript** & Async Programming.
-- 🧩 **Data Structures & Algorithms (DSA)** in C++.
-- ⚛️ **React.js** for modern frontend UI.
-- 🟢 **Node.js & Express.js** for backend API creation.
-- 🍃 **MongoDB** for database management.
+- ⚡ Advanced JavaScript & Async Programming.
+- 🧩 Data Structures & Algorithms (DSA) in C++.
+- ⚛️ React.js for modern frontend UI.
+- 🟢 Node.js & Express.js for backend API creation.
+- 🍃 MongoDB for database management.
 
 ---
 
@@ -55,18 +60,18 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmaldholu4&show_icons=true&theme=tokyonight" alt="Nirmal's GitHub Stats" />
+  <img src="" id="github-stats" alt="Nirmal's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmaldholu4&theme=tokyonight" alt="GitHub Streak" />
+  <img src="" id="github-streak" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:nirmaldholu4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -80,3 +85,10 @@
 <p align="center">
   <i>"Code, Learn, Build, Repeat." 🚀</i>
 </p>
+
+<script>
+  const username = "nirmaldholu4";
+
+  document.getElementById('github-stats').src = `https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=tokyonight`;
+  document.getElementById('github-streak').src = `https://github-readme-streak-stats.herokuapp.com/?user=${username}&theme=tokyonight`;
+</script>
